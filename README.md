@@ -43,10 +43,6 @@
 ## 📫 Contact
 - GitHub: **its-spidycode**  
 - Email: ychand880@gmail.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/its-spidycode
-- 🐦 X (Twitter): https://x.com/__Yasshhh
-
-
 
 
 ---
